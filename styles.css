@@ -10,15 +10,14 @@
     font-weight: normal;
     font-size: 100px;
     height:200px;
-    vertical-align: middle;
 }
 
 .Bgblack {
     background-color: black;
-    margin-top: auto;
+    padding-top: 20px;
 }
 .bouton {
-    text-align: center;
-
+    text-align: center
 }
+
 /* A vous de faire votre propre feuille de styles en dessous !! */
