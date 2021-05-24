@@ -4,10 +4,13 @@
     margin: 0px;
     padding: 0px;
 }
-.center {
+.image {
     text-align: center;
     background-color: gold ;
     font-weight: normal;
     font-size: 100px;
-}
+    height:200px;
+    vertical-align: middle;
+    }
+.
 /* A vous de faire votre propre feuille de styles en dessous !! */
