@@ -23,5 +23,7 @@
     width: 150px;
     height: 200px;
     text-align: center;
+    border-radius: 4px;
+    padding: 10px;
 }
 /* A vous de faire votre propre feuille de styles en dessous !! */
