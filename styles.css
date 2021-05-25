@@ -4,19 +4,20 @@
     margin: 0px;
     padding: 0px;
 }
-.image {
+.Fond {
     text-align: center;
     background-color: gold ;
     font-weight: normal;
     font-size: 100px;
     height:200px;
+
 }
 
 .Bgblack {
     background-color: black;
     padding-top: 20px;
 }
-.bouton {
+.boutonPlacer {
     text-align: center
 }
 
