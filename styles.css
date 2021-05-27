@@ -18,7 +18,7 @@
 .boutonPlacer {
     text-align: center
 }
-.Allan {
+.card {
     background-color: gold;
     width: 150px;
     height: 200px;
@@ -34,4 +34,4 @@
     display: inline-block;
     background-color: gold;
 }
-/* A vous de faire votre propre feuille de styles en dessous !! */
+
