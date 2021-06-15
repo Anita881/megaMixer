@@ -26,12 +26,14 @@
     border-radius: 10px;
     padding: 10px;
 }
-.Richard {
+.Nom {
     text-transform: capitalize;
     font-size: 20px;
 }
 .bouton {
     display: inline-block;
-    background-color: gold;
 }
 
+.card {
+    display: inline-block;
+}
