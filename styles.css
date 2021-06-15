@@ -29,11 +29,22 @@
 .Nom {
     text-transform: capitalize;
     font-size: 20px;
+    text-align: center;
+    color: black;
+    margin-top: 200px;
+}
+.Prenom {
+    text-align: center;
+    color: black;
 }
 .center {
     display: inline-block;
 }
 
 .card {
-    display: inline-block;
+    background-color: gold;
+    width: 200px;
+    height: 300px;
+
+
 }
